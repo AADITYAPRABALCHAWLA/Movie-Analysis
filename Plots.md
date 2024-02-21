@@ -1,4 +1,4 @@
-![image](https://github.com/AADITYAPRABALCHAWLA/Movie-Analysis/assets/103323016/01e82bb8-7798-4225-aa4b-c63b13045a81)**BAND BAJAA BARAT**
+**BAND BAJAA BARAT**
 ![image](https://github.com/AADITYAPRABALCHAWLA/Movie-Analysis/assets/103323016/5cbcee84-cdc7-42f1-b82d-6c6750967385)
 
 **BARFI**
