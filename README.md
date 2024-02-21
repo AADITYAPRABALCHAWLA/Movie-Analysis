@@ -26,5 +26,8 @@ I am going to analyze the scripts of 10 romantic bolloywood hits. In the end I a
 | Yeh Jawaani Hai Deewani | mov20 | https://www.scripts.com/script-pdf-body.php?id=23788 |
 
 # Code
-click [here](https://github.com/AADITYAPRABALCHAWLA/Movie-Analysis/blob/main/Code.R) for the code.
+Click [here](https://github.com/AADITYAPRABALCHAWLA/Movie-Analysis/blob/main/Code.R) for the code.
+
+# Plots
+Click [here](https://github.com/AADITYAPRABALCHAWLA/Movie-Analysis/blob/main/Plots.md) for plots.
 
