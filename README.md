@@ -24,3 +24,6 @@ I am going to analyze the scripts of 10 romantic bolloywood hits. In the end I a
 | The Lunchbox | mov18 | https://www.scripts.com/script-pdf-body.php?id=20763 |
 | Aashiqui2 | mov19 | https://www.scripts.com/script-pdf-body.php?id=2114 |
 | Yeh Jawaani Hai Deewani | mov20 | https://www.scripts.com/script-pdf-body.php?id=23788 |
+
+# Code
+[link](https://github.com/AADITYAPRABALCHAWLA/Movie-Analysis/blob/main/Code.R)
